@@ -5,7 +5,7 @@
 ## Desenvolvimento de Sistema de Realocação no Interior do Maranhão
 
 ### Visão Geral
-Breve descrição do projeto e seu propósito.
+Definir Objetivos:Levantamento de Dados: Criar uma interface para coletar informações demográficas, econômicas e sociais das pessoas afetadas.Registro de Locais: Implementar funcionalidades para mapear e registrar locais relevantes, como residências e infraestrutura existente.
 
 ### Estado Atual do Projeto
 Em Desenvolvimento
