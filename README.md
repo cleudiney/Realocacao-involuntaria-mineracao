@@ -1,34 +1,41 @@
-# Realocacao|involuntaria|mineracao
-# Projeto de Realocação - OZ Minerals
+ # Relatório do Projeto: Sistema de Realocação para OZ Minerals
 
-
-## Desenvolvimento de Sistema de Realocação no Interior do Maranhão
+## Desenvolvimento do Sistema de Realocação no Interior do Maranhão
 
 ### Visão Geral
-Definir Objetivos:Levantamento de Dados: Criar uma interface para coletar informações demográficas, econômicas e sociais das pessoas afetadas.Registro de Locais: Implementar funcionalidades para mapear e registrar locais relevantes, como residências e infraestrutura existente.
+Este projeto tem como objetivo principal criar um sistema abrangente para a coleta de dados, participação comunitária e análise de impactos relacionados à proposta de realocação da OZ Minerals no interior do Maranhão.
 
 ### Estado Atual do Projeto
-Em Desenvolvimento
+Atualmente, o projeto encontra-se em fase de desenvolvimento, com implementações significativas realizadas até o momento.
 
 ### Objetivos Principais
-1. Coleta de Dados Detalhada
-2. Participação Ativa da Comunidade
-3. Avaliação Abrangente de Impactos Ambientais
+1. **Coleta de Dados Detalhada:**
+   - Inclusão de campos demográficos, como idade, ocupação, etc.
+   - Integração de GPS para obter automaticamente a localização.
+   - Mapa interativo para visualização e seleção de locais relevantes.
+
+2. **Módulo de Participação Comunitária:**
+   - Adição de campo de feedback no formulário.
+   - Facilita a comunicação bidirecional, promovendo transparência e envolvimento ativo.
+
+3. **Avaliação de Impacto Ambiental:**
+   - Inclusão de campo para avaliação de impacto ambiental no formulário.
+   - Permite a coleta de informações sobre possíveis impactos ambientais.
+
+4. **Monitoramento de Resíduos e Medidas de Mitigação:**
+   - Adição de campos para monitoramento de resíduos e medidas de mitigação.
+   - Contribui para a compreensão e abordagem dos impactos ambientais ligados à atividade de mineração.
 
 ### Tecnologias Utilizadas
 - **Frontend:**
-  - [HTML](link_para_html)
-  - [CSS](link_para_css)
-  - [JavaScript](link_para_javascript)
-  - [Leaflet (para integração de mapas)](link_para_leaflet)
+  - HTML, CSS, JavaScript
+  - Leaflet (para integração de mapas)
 
 - **Backend:**
-  - [PHP](link_para_php)
-  - [R](link_para_r)
+  - PHP, R
 
 - **Banco de Dados:**
-  - [MySQL](link_para_mysql)
-  - [PostgreSQL](link_para_postgresql)
+  - MySQL, PostgreSQL
 
 ### Próximos Passos
 - **Ações de Compensação:**
@@ -49,10 +56,5 @@ Em Desenvolvimento
 
 ### Contatos
 - **Equipe de Desenvolvimento:**
-  - [Cleudiney Brandão ****Klewds****](www.instagram.com/cleudineyt)
+  - [Cleusiney -Klewds - Brandão](www.instagram.com/cleudineyt)
     
-  - ...
-
-
-### Licença
-Este projeto está sob a licença Propritaria livre para estudos.
