@@ -56,5 +56,5 @@ Atualmente, o projeto encontra-se em fase de desenvolvimento, com implementaçõ
 
 ### Contatos
 - **Equipe de Desenvolvimento:**
-  - [Cleusiney -Klewds - Brandão](www.instagram.com/cleudineyt)
+  - [Cleudiney -Klewds - Brandão](www.instagram.com/cleudineyt)
     
